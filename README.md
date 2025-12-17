@@ -1,5 +1,4 @@
 # baikiemtra
-Bài tập PHP Libary Management  basic nhưng GUI đẹp hoa mắt
 Em đã mã hóa mật khẩu khi insert vô csdl
 ------------------------------------------
 account | quang2k4yeu | password quang2k4yeu | role | admin
